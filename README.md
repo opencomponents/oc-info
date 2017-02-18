@@ -1,7 +1,7 @@
 oc-info
 =======
 
-Little cli tool to fetch information from an [OpenComponents](https://github.com/opentable/oc) registry's API.
+A cli tool to fetch information from an [OpenComponents](https://github.com/opentable/oc) registry's API.
 
 ### Usage
 
