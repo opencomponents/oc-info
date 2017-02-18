@@ -12,7 +12,7 @@ oc-info <registry url> <command>
 
 Available commands:
 
-* `author`: shows the list of all the authors for active components
+* `authors`: shows the list of all the authors for active components
 
 ### License
 
