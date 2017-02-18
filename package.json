@@ -1,0 +1,35 @@
+{
+  "name": "oc-info",
+  "version": "1.0.0",
+  "description": "A cli tool to get information about an oc-registry",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matteofigus/oc-info.git"
+  },
+  "keywords": [
+    "oc",
+    "opencomponents",
+    "open",
+    "components"
+  ],
+  "author": "Matteo Figus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matteofigus/oc-info/issues"
+  },
+  "homepage": "https://github.com/matteofigus/oc-info#readme",
+  "dependencies": {
+    "async": "^2.1.4",
+    "colors": "^1.1.2",
+    "lodash": "^4.17.4",
+    "minimal-request": "^2.2.0",
+    "parse-author": "^1.0.0"
+  },
+  "bin": {
+    "oc-info": "./index.js"
+  }
+}
