@@ -1,6 +1,6 @@
 {
   "name": "oc-info",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A cli tool to fetch information from an OpenComponents registry's API",
   "main": "index.js",
   "scripts": {
