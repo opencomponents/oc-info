@@ -31,5 +31,8 @@
   },
   "bin": {
     "oc-info": "./index.js"
+  },
+  "devDependencies": {
+    "standard": "^9.0.1"
   }
 }
