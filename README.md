@@ -13,6 +13,8 @@ oc-info <registry url> <command>
 Available commands:
 
 * `authors`: shows the list of all the authors for active components
+* `dependencies`: shows the list of all the dependencies for active components
+* `plugins`: shows the list of all the used plugins by active components
 
 ### License
 
