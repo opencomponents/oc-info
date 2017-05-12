@@ -7,7 +7,7 @@ A cli tool to fetch information from an [OpenComponents](https://github.com/open
 
 ```sh
 [sudo] npm i -g oc-info
-oc-info <registry url> <command>
+oc-info <registry url> <command> [--details]
 ```
 
 Available commands:
