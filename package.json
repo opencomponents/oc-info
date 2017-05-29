@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/matteofigus/oc-info.git"
+    "url": "git+https://github.com/opencomponents/oc-info.git"
   },
   "keywords": [
     "oc",
@@ -19,9 +19,9 @@
   "author": "Matteo Figus",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/matteofigus/oc-info/issues"
+    "url": "https://github.com/opencomponents/oc-info/issues"
   },
-  "homepage": "https://github.com/matteofigus/oc-info#readme",
+  "homepage": "https://github.com/opencomponents/oc-info#readme",
   "dependencies": {
     "async": "^2.1.4",
     "colors": "^1.1.2",
