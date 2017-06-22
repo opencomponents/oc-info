@@ -27,12 +27,12 @@
     "colors": "^1.1.2",
     "lodash": "^4.17.4",
     "minimal-request": "^2.2.0",
-    "parse-author": "^1.0.0"
+    "parse-author": "^2.0.0"
   },
   "bin": {
     "oc-info": "./index.js"
   },
   "devDependencies": {
-    "standard": "^9.0.1"
+    "standard": "^10.0.2"
   }
 }
