@@ -1,6 +1,8 @@
 oc-info
 =======
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/opencomponents/oc-info.svg)](https://greenkeeper.io/)
+
 A cli tool to fetch information from an [OpenComponents](https://github.com/opentable/oc) registry's API.
 
 ### Usage
